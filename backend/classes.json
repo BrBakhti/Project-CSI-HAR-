@@ -1,0 +1,11 @@
+{
+  "classes": [
+    "bend",
+    "fall",
+    "liedown",
+    "run",
+    "sitdown",
+    "standup",
+    "walk"
+  ]
+}
